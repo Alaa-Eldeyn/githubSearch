@@ -1,5 +1,5 @@
 import Pie3d from "./Pie3d";
-import Doughnut2d from "./doughnut2d";
+import Doughnut2d from "./Doughnut";
 import Column2d from "./Column2d";
 import Bars2d from "./Bars2d";
 
